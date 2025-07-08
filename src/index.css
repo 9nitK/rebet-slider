@@ -15,9 +15,9 @@
 
 body {
   margin: 0;
-    display: flex;
-    place-items: center;
-    min-height: 100%;
-    position: fixed;
-    width: 100%;
+  display: flex;
+  place-items: center;
+  min-height: 100%;
+  position: fixed;
+  width: 100%;
 }
