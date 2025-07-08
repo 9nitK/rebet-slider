@@ -1,12 +1,30 @@
-# React + Vite
+# Rebet P2P Slider
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React + Vite project implementing a draggable P2P slider UI challenge.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Install dependencies:**
 
-## Expanding the ESLint configuration
+   ```bash
+   npm install
+   ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+2. **Run the development server:**
+
+   ```bash
+   npm run dev
+   ```
+
+3. **Open your browser:**
+   Visit [http://localhost:5173](http://localhost:5173) to view the app.
+
+## Project Structure
+
+- `src/components/P2PSlider/` — Main slider component and styles
+- `public/static-assets/` — Images and icons
+- `public/AnimatedAssets/` — Lottie animation JSON files
+
+## Notes
+
+- This project uses React, Vite, and styled-components.
