@@ -21,7 +21,7 @@ import {
 const AcceptIndicator = React.memo((props) => (
   <SliderActionText isInverted={props.isInverted}>
     <div className="slider-accept-text">Accept</div>
-    <img src="/public/static-assets/white_check.png" alt="Accept" />
+    <img src="/static-assets/white_check.png" alt="Accept" />
   </SliderActionText>
 ));
 
@@ -30,7 +30,7 @@ const AcceptIndicator = React.memo((props) => (
  */
 const DeclineIndicator = React.memo((props) => (
   <SliderActionText isInverted={props.isInverted}>
-    <img src="/public/static-assets/white_close.png" alt="Decline" />
+    <img src="/static-assets/white_close.png" alt="Decline" />
     <div className="slider-decline-text">Decline</div>
   </SliderActionText>
 ));
