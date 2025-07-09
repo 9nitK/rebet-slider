@@ -2,6 +2,10 @@
 
 A React + Vite project implementing a draggable P2P slider UI challenge.
 
+## Live Demo
+
+Check out the live demo: [https://rebet-slider-git-main-9nitks-projects.vercel.app/](https://rebet-slider-git-main-9nitks-projects.vercel.app/)
+
 ## Getting Started
 
 1. **Install dependencies:**
